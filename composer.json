@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AjayExpert\\traitMaker\\": "src"
+            "AjayExpert\\TraitMaker\\": "src"
         }
     }
 }
